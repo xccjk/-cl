@@ -1,0 +1,14 @@
+{
+  "name": "@cl/standard-prettier",
+  "version": "1.0.0",
+  "description": "standard prettier",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcc <1025886304@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
